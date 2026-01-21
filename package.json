@@ -1,0 +1,18 @@
+{
+  "name": "housewellness",
+  "version": "1.0.0",
+  "description": "House Wellness Calgary - Professional Home Maintenance Checkups",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "home inspection",
+    "calgary",
+    "home maintenance",
+    "preventative maintenance"
+  ],
+  "author": "Gavin Dyer",
+  "license": "UNLICENSED",
+  "private": true
+}
